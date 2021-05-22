@@ -18,4 +18,3 @@ def factorial(number):
     dpArray[number] = fact
     return fact
 
-print(factorial(5))
