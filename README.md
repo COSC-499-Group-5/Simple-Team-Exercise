@@ -11,7 +11,7 @@ A simple programming exercise to get familiarize the whole group in using git/gi
 1. Have a `python3` installed to run this program.
 
 ## What the Feature Is:
-A simple python program which does a basic selection sort. The purpose of this exercise is to showcase my usage of Github for COSC 499. With this program, you can sort either words (strings/chars) or numbers(ints, floats, doubles, etc..)
+A simple python program which does a basic selection sort. The purpose of this exercise is to showcase my usage of Github for COSC 499. With this program, do different type of arithmetics.
 
 ## How to Use It:
 1. Go to the directory and type the following command in terminal: `python3 -i unittest.py`
